@@ -9,7 +9,6 @@
     "author": "Asylcreek",
     "license": "ISC",
     "dependencies": {
-        "body-parser": "^1.18.3",
         "dotenv": "^8.2.0",
         "express": "^4.16.3",
         "lodash": "^4.17.11",
